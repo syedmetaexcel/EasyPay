@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-17T03:49:54 EDT" name="Default suite" finished-at="2024-04-17T03:49:57 EDT" duration-ms="3825">
+    <groups>
+    </groups>
+    <test started-at="2024-04-17T03:49:54 EDT" name="Default test" finished-at="2024-04-17T03:49:57 EDT" duration-ms="3825">
+      <class name="Practise.Automation.ExampleAPITest">
+        <test-method signature="testGetAccountDetails()[pri:0, instance:Practise.Automation.ExampleAPITest@35aea049]" started-at="2024-04-17T03:49:54 EDT" name="testGetAccountDetails" finished-at="2024-04-17T03:49:57 EDT" duration-ms="3781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAccountDetails -->
+      </class> <!-- Practise.Automation.ExampleAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
